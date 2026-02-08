@@ -86,7 +86,7 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) is used to highlight image
 ## 📂 Repository Structure
 
 ```bash
-├── sea-animals-classification-using-efficeintnetb7.ipynb
+├── marine_species_deep_cnns_transfer_learning.ipynb
 ├── Output.zip
 └── README.md
 ```
@@ -96,7 +96,7 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) is used to highlight image
 1. Clone the repository
 
 ```bash
-git clone https://github.com/NishatTasnim01/Sea-Animals-Classification-using-Deep-CNNs-and-Transfer-Learning.git
+git clone https://github.com/NishatTasnim01/Marine-Species-Image-Classification-using-Deep-CNNs-Transfer-Learning
 ```
 
 2. Open the notebook in **Jupyter Notebook / Google Colab / Kaggle**
